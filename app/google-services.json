@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167252588723",
+    "project_id": "tutorbc-d1fde",
+    "storage_bucket": "tutorbc-d1fde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167252588723:android:7075063f3db740ba0b58c6",
+        "android_client_info": {
+          "package_name": "com.example.tutorbc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167252588723-j83vg0e6vups932t8f33atfkt9f3f43i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeIMdx6XHAOa2nqiwrK70fb8fzpR7NtjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167252588723-j83vg0e6vups932t8f33atfkt9f3f43i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
